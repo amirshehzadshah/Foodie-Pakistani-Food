@@ -49,35 +49,25 @@ To run foodie locally on your machine, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd coffeeshop
+   cd Foodie-Pakistani-Food
    
-3. **Install dependencies for the mobile app:**
+3. **Install dependencies using npm:**
 
    ```bash
-   cd CoffeeShop
    npm install
    
-6. **Run the mobile app:**
-   - Ensure you have React Native development environment set up. If not, follow the [React Native getting started guide](https://reactnative.dev/docs/next/environment-setup).
-   - Start the Metro server:
+4. **Run the project locally, use the following command:**
+   - Start the server:
      
      ```bash
-     npx react-native start
+     npm run dev
      
-   - Run the app on Android emulator or on a physical device:
-     
-     ```bash
-     npx react-native run-android
-
-7. **Access the CoffeeShop app:** Once the app is built and running, you can access it on your emulator or device. Follow the on-screen instructions to explore the app's features!
-     
-     ```vbnet
-     This guide assumes that you're using Git for version control, Node.js/npm for package management, and React Native for mobile app development. Make sure to adjust the instructions based on your specific setup and requirements.
+  This will start the development server and open the project in your default web browser.
 
 
 ---
 
 *Crafted with ❤️ by Amir Shehzad Shah*
 
-Let's brew some magic! ✨☕
+Let's create an amazing food ordering experience! ✨🍽️
 
